@@ -1,0 +1,33 @@
+#header{
+  text-align: center;
+  font-family:'Times New Roman', Times, serif;
+}
+
+body{
+  margin: 0;
+}
+#form-container{
+  display:grid;
+  position: center;
+  background: #999;
+  padding: 30px 40px;
+/* add in some grid shit later  */
+}
+
+
+#button{ 
+  background-color: rgb(2, 212, 2);
+  border: transparent;
+  border-radius: 7px;
+  color: white;
+  width: 100px;
+  height: 40px
+}
+
+
+p {
+  font-family: 'Courier New', Courier, monospace;
+  font-weight:400;
+
+
+}
